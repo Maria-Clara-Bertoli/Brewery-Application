@@ -1,4 +1,4 @@
-# 🍻📱 Brewery App
+# 🍻📱 Brewery Application
 
 This repository contains the **development of an application** using the **Flutter framework**, aimed at **craft beer enthusiasts**.
 
